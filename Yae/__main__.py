@@ -86,7 +86,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """ Konnichiwa !! 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 Hoi {} san, I'm Ruka Sarashina, Hajimemashite! [✨](https://te.legra.ph/file/81c371405ea1987d55d90.jpg)
-I'm An Anime Themed Advance Group Management Bot.I have lots of handy features such as:
+I'm An Anime Themed Advance Group Management Bot. I have lots of handy features such as:
 ‣ Wᴀrning sysᴛᴇʍ.
 ‣ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
 ‣ Nᴏᴛᴇ ᴋᴇᴇᴩing sysᴛᴇʍ.
@@ -240,7 +240,7 @@ def Yae_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                    [
-                     InlineKeyboardButton(text="Support", url="https://t.me/Anime_Chat_XKaizuryu"),
+                     InlineKeyboardButton(text="Support", url="https://t.me/suppportXd"),
                      InlineKeyboardButton(text="News", url="https://t.me/TheKaizuryu")
                    ],
                    [
