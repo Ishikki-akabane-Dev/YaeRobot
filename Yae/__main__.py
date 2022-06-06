@@ -83,17 +83,17 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """ Hi Thᴇrᴇ Bᴀʙᴇ! I'ʍ Yᴀᴇ Miᴋᴏ [✨](https://telegra.ph/file/e49fc8b774c8807f0a417.jpg)
-A Pᴏwᴇrful Grᴏuᴩ Mᴀnᴀgᴇʍᴇnᴛ Bᴏᴛ Bᴀsᴇd On Gᴇnshin Iʍᴩᴀᴄᴛ Thᴇʍᴇ.
-Thᴇsᴇ Arᴇ Thᴇ Pᴏwᴇrs I Pᴏssᴇs -
+PM_START_TEXT = """ Konnichiwa !! 
+
+Hoi {} san, I'm Ruka Sarashina, Hajimemashite! [✨](https://telegra.ph/file/e49fc8b774c8807f0a417.jpg)
+I'm An Anime Themed Advance Group Management Bot.I have lots of handy features such as:
 ‣ Wᴀrning sysᴛᴇʍ.
-‣ Arᴛifiᴄiᴀl inᴛᴇlligᴇnᴄᴇ.
 ‣ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
 ‣ Nᴏᴛᴇ ᴋᴇᴇᴩing sysᴛᴇʍ.
 ‣ Filᴛᴇrs ᴋᴇᴇᴩing sysᴛᴇʍ.
 ‣ Aᴩᴩrᴏvᴀls ᴀnd ʍuᴄh ʍᴏrᴇ.
 
-Lᴇᴛ's Nᴏᴛ Wᴀiᴛ Any Lᴏngᴇr
+
 *Add Mᴇ Tᴏ Yᴏur Grᴏuᴩ Wiᴛh Full Righᴛs Tᴏ Sᴇᴇ My Pᴏwᴇr Tᴏ Iᴛ's Full Exᴛᴇnᴛ.*
 """
 
