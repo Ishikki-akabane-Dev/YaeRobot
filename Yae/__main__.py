@@ -83,16 +83,27 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """ Konnichiwa !! 
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-Hoi {} san, I'm Ruka Sarashina, Hajimemashite! [✨](https://te.legra.ph/file/81c371405ea1987d55d90.jpg)
-I'm An Anime Themed Advance Group Management Bot. I have lots of handy features such as:
-‣ Wᴀrning sysᴛᴇʍ.
-‣ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
-‣ Nᴏᴛᴇ ᴋᴇᴇᴩing sysᴛᴇʍ.
-‣ Filᴛᴇrs ᴋᴇᴇᴩing sysᴛᴇʍ.
-‣ Aᴩᴩrᴏvᴀls ᴀnd ʍuᴄh ʍᴏrᴇ.
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+PM_START_TEXT = """ ᏦϴΝΝᏆᏟᎻᏆᏔᎪ !! (◍•ᴗ•◍)
+
+⊰᯽⊱┈─╌❊ - ❊╌─┈⊰᯽⊱
+
+ʜᴏɪ {} sᴀɴ, ɪ'ᴍ ʀᴜᴋᴀ sᴀʀᴀsʜɪɴᴀ, ʜᴀᴊɪᴍᴇᴍᴀsʜɪᴛᴇ! [✨](https://te.legra.ph/file/7bd18e2d1345f6705f41b.jpg)
+
+⊰᯽⊱┈─╌❊ - ❊╌─┈⊰᯽⊱
+
+ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ. ɪ ʜᴀᴠᴇ ʟᴏᴛs ᴏғ ʜᴀɴᴅʏ ғᴇᴀᴛᴜʀᴇs sᴜᴄʜ ᴀs:
+
+❍ Wᴀrning sysᴛᴇʍ.
+
+❍ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
+
+❍ Nᴏᴛᴇ ᴋᴇᴇᴩing sysᴛᴇʍ.
+
+❍ Filᴛᴇrs ᴋᴇᴇᴩing sysᴛᴇʍ.
+
+❍ Aᴩᴩrᴏvᴀls ᴀnd ʍuᴄh ʍᴏrᴇ.
+
+━━━•❅•°•❈ - •°•❅•━━━
 
 *Add Mᴇ Tᴏ Yᴏur Grᴏuᴩ Wiᴛh Full Righᴛs Tᴏ Sᴇᴇ My Pᴏwᴇr Tᴏ Iᴛ's Full Exᴛᴇnᴛ.*
 """
