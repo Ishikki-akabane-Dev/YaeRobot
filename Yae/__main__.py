@@ -85,7 +85,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """ Konnichiwa !! 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-Hoi {} san, I'm Ruka Sarashina, Hajimemashite! [✨](https://telegra.ph/file/e49fc8b774c8807f0a417.jpg)
+Hoi {} san, I'm Ruka Sarashina, Hajimemashite! [✨](https://te.legra.ph/file/81c371405ea1987d55d90.jpg)
 I'm An Anime Themed Advance Group Management Bot.I have lots of handy features such as:
 ‣ Wᴀrning sysᴛᴇʍ.
 ‣ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
