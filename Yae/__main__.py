@@ -90,19 +90,12 @@ PM_START_TEXT = """ ᏦϴΝΝᏆᏟᎻᏆᏔᎪ !! (◍•ᴗ•◍)
 ʜᴏɪ {} sᴀɴ, ɪ'ᴍ ʀᴜᴋᴀ sᴀʀᴀsʜɪɴᴀ, ʜᴀᴊɪᴍᴇᴍᴀsʜɪᴛᴇ! [✨](https://te.legra.ph/file/7bd18e2d1345f6705f41b.jpg)
 
 ⊰᯽⊱┈─╌❊ - ❊╌─┈⊰᯽⊱
-
 ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ. ɪ ʜᴀᴠᴇ ʟᴏᴛs ᴏғ ʜᴀɴᴅʏ ғᴇᴀᴛᴜʀᴇs sᴜᴄʜ ᴀs:
-
 ❍ Wᴀrning sysᴛᴇʍ.
-
 ❍ Flᴏᴏd ᴄᴏnᴛrᴏl sysᴛᴇʍ.
-
 ❍ Nᴏᴛᴇ ᴋᴇᴇᴩing sysᴛᴇʍ.
-
 ❍ Filᴛᴇrs ᴋᴇᴇᴩing sysᴛᴇʍ.
-
 ❍ Aᴩᴩrᴏvᴀls ᴀnd ʍuᴄh ʍᴏrᴇ.
-
 ━━━•❅•°•❈ - •°•❅•━━━
 
 *Add Mᴇ Tᴏ Yᴏur Grᴏuᴩ Wiᴛh Full Righᴛs Tᴏ Sᴇᴇ My Pᴏwᴇr Tᴏ Iᴛ's Full Exᴛᴇnᴛ.*
