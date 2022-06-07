@@ -258,13 +258,13 @@ def Yae_about_callback(update: Update, context: CallbackContext):
     [
         InlineKeyboardButton(text="Kᴀizuryu", url=f"https://t.me/TheKaizuryu"),
         InlineKeyboardButton(
-            text="Chᴀᴛ Grᴏuᴩ", url=f"https://t.me/Anime_Chat_XKaizuryu"
+            text="Chᴀᴛ Grᴏuᴩ", url=f"https://t.me/fairytailguild0"
         ),
     ],
     [
         InlineKeyboardButton(text="Ownᴇr", url=f"https://t.me/xelcius"),
         InlineKeyboardButton(
-            text="Yᴀᴇ Infᴏ", callback_data="Yae_"
+            text="Ruka Infᴏ", callback_data="Yae_"
         ),
     ],
     [
