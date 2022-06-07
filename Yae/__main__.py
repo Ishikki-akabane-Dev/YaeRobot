@@ -239,7 +239,7 @@ def Yae_about_callback(update: Update, context: CallbackContext):
                 [
                    [
                      InlineKeyboardButton(text="Support", url="https://t.me/suppportXd"),
-                     InlineKeyboardButton(text="News", url="https://t.me/TheKaizuryu")
+                     InlineKeyboardButton(text="News", url="https://t.me/Hashira0XD")
                    ],
                    [
                     InlineKeyboardButton(text="Back", callback_data="Yae_back")
