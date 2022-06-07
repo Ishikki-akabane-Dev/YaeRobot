@@ -171,15 +171,9 @@ def start(update: Update, context: CallbackContext):
             text="➕️ Add Mᴇ Tᴏ Yᴏur Chᴀᴛ Grᴏuᴩ ➕️", url=f"https://t.me/{context.bot.username}?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Kᴀizuryu", url=f"https://t.me/TheKaizuryu"),
+        InlineKeyboardButton(text="Support", url=f"https://t.me/suppportXd"),
         InlineKeyboardButton(
-            text="Chᴀᴛ Grᴏuᴩ", url=f"https://t.me/Anime_Chat_XKaizuryu"
-        ),
-    ],
-    [
-        InlineKeyboardButton(text="Ownᴇr", url=f"https://t.me/xelcius"),
-        InlineKeyboardButton(
-            text="Yᴀᴇ Infᴏ", callback_data="Yae_"
+            text="Ruka Infᴏ", callback_data="Yae_"
         ),
     ],
     [
